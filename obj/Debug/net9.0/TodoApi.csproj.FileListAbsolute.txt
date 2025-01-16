@@ -31,3 +31,4 @@
 /Users/sph/Projects/TodoApi/obj/Debug/net9.0/TodoApi.pdb
 /Users/sph/Projects/TodoApi/obj/Debug/net9.0/TodoApi.genruntimeconfig.cache
 /Users/sph/Projects/TodoApi/obj/Debug/net9.0/ref/TodoApi.dll
+/Users/sph/Projects/TodoApi/obj/Debug/net9.0/TodoApi.sourcelink.json
